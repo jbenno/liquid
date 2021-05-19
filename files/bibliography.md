@@ -1,0 +1,62 @@
+# Bibliography on Liquid Democracy
+
+- Backstrand, Karin, Jamil Khan, Annica Kronsell, and Eva Lovbrand. Environmental Politics and Deliberative Democracy: Examining the Promise of New Modes of Governance. Cheltenham, Gloucestershire, UNITED KINGDOM: Edward Elgar Publishing Limited, 2010. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=546594.
+- Barlow, John Perry. ‘A Declaration of the Independence of Cyberspace’. Electronic Frontier Foundation, 2 August 1996. https://www.eff.org/cyberspace-independence.
+- Behrens, Jan, Axel Kistner, Andreas Nitsche, and Björn Swierczek. The Principles of LiquidFeedback. Berlin: Interaktive Demokratie e. V., Berlin, Germany, 2014.
+- Blum, Christian, and Christina Isabel Zuber. ‘Liquid Democracy: Potentials, Problems, and Perspectives’. Journal of Political Philosophy 24, no. 2 (2016): 162–82. https://doi.org/10.1111/jopp.12065.
+- Bollier, David. ‘LiquidFeedback: What A Genuine Democratic Process Looks Like’, 5 July 2012. http://www.bollier.org/blog/liquidfeedback-what-genuine-democratic-process-looks.
+- Buchanan, James M. The Calculus of Consent: Logical Foundations of Constitutional Democracy. Buchanan, James M. Works. 1999 ; v. 3. Indianapolis: Liberty Fund, 1999.
+- Buck, Sebastian. ‘Liquid Democracy – Eine Realisierung Deliberativer Hoffnungen? Zum Selbstverständnis Der Piratenpartei’. Zeitschrift Für Parlamentsfragen 43, no. 3 (2012): 626–35.
+- Bull, Hans Peter. ‘Dritter Teil:: Neue Formen Der Demokratie’. In Netzpolitik: Freiheit Und Rechtsschutz Im Internet, 1st ed., 97–118. Nomos Verlagsgesellschaft mbH, 2013. http://www.jstor.org/stable/j.ctv941w79.8.
+- Bullwinkel, Bastian, and Lothar Probst. ‘Innerparteiliche Willensbildung Und Entscheidungsprozesse Durch Digitale Partizipation. Ein Praxistest Des Konzepts Der Liquid Democracy’. Zeitschrift Für Parlamentsfragen 45, no. 2 (2014): 382–401.
+- Buterin, Vitalik. ‘Quadratic Payments: A Primer’, 7 December 2019. https://vitalik.ca/general/2019/12/07/quadratic.html.
+- Cooke, Maeve. ‘Five Arguments for Deliberative Democracy’. Political Studies 48, no. 5 (December 2000). https://doi.org/10.1111/1467-9248.00289.
+- Crichton, Danny. ‘Liquid Democracy Uses Blockchain to Fix Politics, and Now You Can Vote for It’. TechCrunch, 24 February 2018. https://social.techcrunch.com/2018/02/24/liquid-democracy-uses-blockchain/.
+- Crist, Nathan. ‘Liquid Democracy’. Bertelsmann Foundation, 31 May 2020. https://www.bfna.org/research/liquid-democracy/.
+- De Cindio, Fiorella, and Stefano Stortone. ‘Experimenting LiquidFeedback for Online Deliberation in Civic Contexts’. In Electronic Participation, edited by Maria A. Wimmer, Efthimios Tambouris, and Ann Macintosh, 147–58. Lecture Notes in Computer Science. Berlin, Heidelberg: Springer, 2013. https://doi.org/10.1007/978-3-642-40346-0_13.
+- DemocracyEarth/Dapp. JavaScript. 2015. Reprint, Democracy Earth Foundation, 2021. https://github.com/DemocracyEarth/dapp.
+- Dingeldey, Philip. ‘A Fourth Transformation of Democracy? Liquid Democracy, Supra-National Democracy and the Fate of Participation’. Law, Democracy and Development 23 (2019): 181–201. https://doi.org/10.17159/2077-4907/2019/ldd.v23b7.
+- Dodgson, Charles L., and Lewis Carroll. The Principles of Parliamentary Representation. London: Harrison and Sons, 1884. http://link.gale.com/apps/doc/U0112829209/MOME?u=new64731&sid=zotero&xid=d230b366.
+- EDICK, COLE. ‘The Golden Age of Piracy: Can Open-Source Democracy Redefine Citizenship for the Internet Age?’ Harvard International Review 36, no. 4 (2015): 7–9.
+- Fan, Xuepeng, Peng Li, Yulong Zeng, and Xiaoping Zhou. ‘Implement Liquid Democracy on Ethereum: A Fast Algorithm for Realtime Self-Tally Voting System’. ArXiv:1911.08774 [Cs], 29 May 2020. http://arxiv.org/abs/1911.08774.
+- Firth, Niall. ‘Want to Make Your Vote Really Count? Stick a Blockchain on It’. New Scientist, n.d. https://www.newscientist.com/article/mg23531424-500-want-to-make-your-vote-really-count-stick-a-blockchain-on-it/.
+- Ford, Bryan. ‘Delegative Democracy Revisited’, 16 November 2014.
+- Gölz, Paul, Anson Kahng, Simon Mackenzie, and Ariel D. Procaccia. ‘The Fluid Mechanics of Liquid Democracy’. In Web and Internet Economics, edited by George Christodoulou and Tobias Harks, 188–202. Lecture Notes in Computer Science. Cham: Springer International Publishing, 2018. https://doi.org/10.1007/978-3-030-04612-5_13.
+- ‘GOVERNMENT BY PROXY NOW.; Oregon Plan Would Present Ideas of Representative Lawmaking’. The New York Times, 29 June 1912. https://www.nytimes.com/1912/06/30/archives/government-by-proxy-now-oregon-plan-would-present-ideas-of.html.
+- Gregorius, Jelena. ‘Does the Digital Age Require New Models of Democracy? – Lasswell’s Policy Scientist of Democracy vs. Liquid Democracy’. Glocality 1, no. 1 (21 September 2015): Art. 1. https://doi.org/10.5334/glo.6.
+- Gutmann, Amy, and Dennis F. Thompson. Why Deliberative Democracy? Why Deliberative Democracy? Princeton University Press, 2009. http://www.degruyter.com/document/doi/10.1515/9781400826339/html.
+- Habermas, Jürgen. Faktizität und Geltung. Jürgen Habermas: Faktizität und Geltung. De Gruyter, 2016. http://www.degruyter.com/document/doi/10.1515/9783110434743/html.
+- Hansen, Kasper M., and Christian F. Rostbøll. ‘Deliberative Democracy’. In The Edinburgh Companion to the History of Democracy, edited by Benjamin Isakhan and Stephen Stockwell, 502–12. From Pre-History to Future Possibilities. Edinburgh University Press, 2015. http://www.jstor.org/stable/10.3366/j.ctt1g0b6rb.47.
+- Holm, Malin. ‘The Rise of Online Counterpublics? : The Limits of Inclusion in a Digital Age’, 2019. http://urn.kb.se/resolve?urn=urn:nbn:se:uu:diva-387426.
+- Jie, Koh Wei. ‘Release Announcement: Semaphore, a Zero-Knowledge Gadget for Ethereum’. Medium, 7 April 2020. https://weijiek.medium.com/release-announcement-semaphore-a-zero-knowledge-gadget-for-ethereum-5b671cd360d4.
+- Kahng, Anson, Simon Mackenzie, and Ariel Procaccia. ‘Liquid Democracy: An Algorithmic Perspective’. Journal of Artificial Intelligence Research 70 (24 March 2021): 1223–52. https://doi.org/10.1613/jair.1.12261.
+- Kashyap, Samika, and A Jeyasekar. ‘A Competent and Accurate BlockChain Based E-Voting System on Liquid Democracy’. In 2020 2nd Conference on Blockchain Research Applications for Innovative Networks and Services (BRAINS), 202–3, 2020. https://doi.org/10.1109/BRAINS49436.2020.9223308.
+- Kennedy, Ed. ‘The Politics of Liquid Democracy via Blockchain’. Block Telegraph (blog), 30 October 2018. https://blocktelegraph.io/the-politics-liquid-democracy-via-blockchain/.
+- Kotsialou, Grammateia, and Luke Riley. ‘Liquid Democracy, e-Voting and Blockchain: Can They Build a New Political and Economic System?’ Redbridge Council, 2017, n.d.
+- Landemore, Hélène. ‘Deliberative Democracy as Open, Not (Just) Representative Democracy’. Daedalus. American Academy of Arts & Sciences, 2017. https://www.amacad.org/publication/deliberative-democracy-open-not-just-representative-democracy.
+- Leary, Kyree. ‘A New Blockchain App Is Poised to Radically Change How People Vote’. Futurism (blog), n.d. https://futurism.com/a-new-blockchain-app-is-poised-to-radically-change-how-people-vote.
+- Leonard, Andrew. ‘Meet Santiago Siri, the Man With a Radical Plan for Blockchain Voting’. Wired, 16 August 2018. https://www.wired.com/story/santiago-siri-radical-plan-for-blockchain-voting/?redirectURL=https%3A%2F%2Fwww.wired.com%2Fstory%2Fsantiago-siri-radical-plan-for-blockchain-voting%2F.
+- Leopold, David. ‘Max Stirner’. In The Stanford Encyclopedia of Philosophy, edited by Edward N. Zalta, Winter 2019. Metaphysics Research Lab, Stanford University, 2019. https://plato.stanford.edu/archives/win2019/entries/max-stirner/.
+- Lessig, Lawrence. Code: And Other Laws of Cyberspace. New York]: Basic Books, 1999.
+- ‘Liquid Democracy – Piratenwiki’, n.d. https://wiki.piratenpartei.de/Liquid_Democracy#Kritik_an_Liquid_Democracy.
+- Loader, Brian. ‘Digital Democracy’. In The Edinburgh Companion to the History of Democracy, edited by Benjamin Isakhan and Stephen Stockwell, 479–90. From Pre-History to Future Possibilities. Edinburgh University Press, 2015. https://www.jstor.org/stable/10.3366/j.ctt1g0b6rb.45.
+- Lorkovic, Edvard Marko. ‘The Politics of Presentation: On Badiou as Reader of Rousseau’. Cosmos and History: The Journal of Natural and Social Philosophy 8, no. 1 (23 April 2012): 62–77.
+- McGann, Anthony J. ‘The Tyranny of the Super-Majority: How Majority Rule Protects Minorities’, 1 October 2002. https://escholarship.org/uc/item/18b448r6.
+- McGeoch, Catherine C. ‘Zero-Knowledge Proofs’. The American Mathematical Monthly 100, no. 7 (1993): 682–85. https://doi.org/10.2307/2323894.
+- Miller, James C. ‘A Program for Direct and Proxy Voting in the Legislative Process’. Public Choice 7, no. 1 (1 September 1969): 107–13. https://doi.org/10.1007/BF01718736.
+- Miller, Sandra. The Social Smart Contract. An Open Source White Paper., 2018. https://www.dropbox.com/s/f5zzofunx186dcu/The%20Social%20Smart%20Contract.pdf?dl=0.
+- Mühlbauer, Peter. ‘Warum Partei und nicht Religion?’ heise online, n.d. https://www.heise.de/tp/features/Warum-Partei-und-nicht-Religion-3415262.html.
+- OCCUPY WALL STREET. ‘Statement of Autonomy’, n.d. http://occupywallstreet.net/policy/statement-autonomy.
+- ‘Occupy Wall Street | NYC Protest for World Revolution’, n.d. http://occupywallst.org/.
+- Paulin, Alois. ‘An Overview of Ten Years of Liquid Democracy Research’. In The 21st Annual International Conference on Digital Government Research, 116–21. Dg.o ’20. New York, NY, USA: Association for Computing Machinery, 2020. https://doi.org/10.1145/3396956.3396963.
+- RadicalxChange Foundation Ltd. ‘Quadratic Voting’. RadicalxChange, n.d. https://www.radicalxchange.org/concepts/quadratic-voting/.
+- Ramachandran, Ashwin. ‘Decentralized Governance: Innovation or Imitation?’ Medium (blog), 19 January 2021. https://medium.com/dragonfly-research/decentralized-governance-innovation-or-imitation-ad872f37b1ea.
+- Schofield, Norman, Bernard Grofman, and Scott L. Feld. ‘The Core and the Stability of Group Choice in Spatial Voting Games’. American Political Science Review 82, no. 1 (March 1988): 195–211. https://doi.org/10.2307/1958065.
+- Schulze, Markus. ‘A New Monotonic, Clone-Independent, Reversal Symmetric, and Condorcet-Consistent Single-Winner Election Method’. Social Choice and Welfare 36, no. 2 (2011): 267–303.
+- ———. ‘The Schulze Method of Voting’, 15 March 2018. https://arxiv.org/abs/1804.02973v8.
+- Seckelmann, Margrit, and Christian Bauer. ‘Mehr Netzbeteiligung Wagen: Wie Open Government, e-Democracy Und Liquid Democracy Die Politische Und Administrative Willensbildung Verändern Sollen’. Verwaltung Und Management 18, no. 2 (2012): 81–87.
+- State of Oregon: Blue Book, n.d. https://sos.oregon.gov/blue-book/Pages/default.aspx.
+- Tufekci, Zeynep. Twitter and Tear Gas: The Power and Fragility of Networked Protest. New Haven, UNITED STATES: Yale University Press, 2017. http://ebookcentral.proquest.com/lib/nyulibrary-ebooks/detail.action?docID=4849027.
+- Tullock, Gordon. Toward a Mathematics of Politics. Ann Arbor: University of Michigan Press, 1967. https://catalog.hathitrust.org/Record/001139093?signon=swle:urn:mace:incommon:nyu.edu.
+- Vigna, Paolo Boldi, Francesco Bonchi, Carlos Castillo, Sebastiano. ‘Viscous Democracy For Social Networks’, n.d. https://m-cacm.acm.org/magazines/2011/6/108653-viscous-democracy-for-social-networks/fulltext?mobile=true.
+- Wilser, Jeff. ‘Santiago Siri’s Plan For Government on a Blockchain’. BREAKERMAG (blog), 1 February 2019. https://www.breakermag.com/an-idealistic-builder-explains-how-blockchain-will-someday-replace-government/.
