@@ -33,13 +33,15 @@
 Proxy voting requires a well designed online platform with strong user centric design in the frontend and high security in the backend.
 
 - First, in the earlier iterations of proxy voting systems (e.g. in the Pirate Party in Germany and Italy, in the County of Friesland, and in the Slow Food movement), the main criticism aimed at the lack of transparency:
-The system suffered from all disadvantages as all other electronic ballot systems.
-The database serving the ‘source of truth’ is either centralised or potentially inconsistent.
+  The system suffered from all disadvantages as all other electronic ballot systems.
+  The database serving the ‘source of truth’ is either centralised or potentially inconsistent.
 - A second serious issue concerned the deliberation: The way decisions are discussed and negotiated suffered all the ailments of toxicity of social media -trolling and bullying, destructive criticism, clashes of uncompromising opinions.
 - A third question is how to keep voters informed and make them aware of their options: How to see which ballots are relevant, and how to find potential delegates.
 And forth, secrecy of the vote was not compatible with transparency and accountability.  
   
 - The first issue can be addressed with blockchain technology serving a secure, distributed, consistent and immutable source of truth.
+  Distributed Autonomous Organisations (DAOs) are cooperative entities that can be mostly or fully distributed and map "classic" cooperative organisations.
+  Distributed Identities (DIs) provide the rights and policies (verifiable claims, VCs) of the cooperative members (voters, actors).
 - For the second, consensus mechanisms on the basis of crypto economics can incentivise participation and penalise destructive behaviour. Deliberation can take place on a social media platform integrating the crypto-economic incentive structure. This could potentially be integrated with existing co-working solutions like Slack.
 - The third demands for a recommendation engine, an intelligent agent learning the individual voter’s preferences and opinions.
 - The fourth is solved with zero-knowledge-proofs guaranteeing accountability for secret voting 
@@ -49,7 +51,7 @@ All decisions and all results of ballots are fed back and influence future elect
 
 ### Technology stack for crypto democracy
 #### Blockchain
-Immutable records, no single point of failure, tokenisation as built-in mechanics to incentivise consensus and other behaviour etc. etc.
+Immutable records, no single point of failure, tokenisation as built-in mechanics to incentivise consensus and other behaviour etc.; Distributed Autonomous Organisations (DAOs) and Distributed Idientites (DIs) deliver cooperative structure and governance for the processes.
 
 #### Zero knowledge proofs
 Authenticity and integrity guaranteed through zero knowledge proofs
