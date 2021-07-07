@@ -1,4 +1,19 @@
-# Liquid Democracy
+# Crypto Democracy
+
+## Summary
+- Crypto democracy overcomes the limitations of representation and other indirect forms of democracy without suffering from the problems inherent to any direct or grassroots democracy. 
+- Crypto democracy uses distributed ledger technology, proxy voting, algorithmic agents, and crypto-economics to get every voter presenting themselves instead of being represented. 
+- Crypto democracy can scale from small communities with just a few members to virtually entire humankind. 
+
+## A new form of democracy
+- Forming consensus and expressing a jointly made decision is a key task in cooperative organisations.
+- Grassroots ballots have serious disadvantages: Too many decisions; not everyone can be an expert in everything or pay continuous attention; debate and deliberation don’t scale.
+- Representation by sending delegates into parliament to speak on behalf of the constituents has been the only alternative to grassroots ballots for many centuries.
+- The paradigm of representativeness is deeply enshrined in almost every political system: We select a representative sample to represent the will of all.
+- The major disadvantage of representation is the party platform -voters have only the choice of electing delegates who offer a full set of policies (e.g. conservative, labour, green). The voters have to support always the entire platform and can’t chose details. Elections take place only in long intervals in-between which voters have no further say in decisions.
+- In recent years an alternative to representation has been formulated: ‘Proxy voting’ or ‘deliberative democracy’ or ‘liquid democracy’. In this model everyone can present themselves instead of being represented. Every voter can not only decide on every ballot but also start initiatives by proposing any decision. Voters can delegate their vote to others, per ballot, per topic, or generally, however, they can withdraw their delegation any time to support different proposals. The advantage is that delegates will present clear programmatic visions on topics rather then an entire party platform. Decision making is much more engaging and direct, without the disadvantages of grassroots models.
+
+
 - [Bibliography](/files/bibliography.md)
 
 ## About Liquid Democracy
