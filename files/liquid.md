@@ -91,7 +91,7 @@ Liquid democracy is, when thought to its end, a radical breach with the foundati
 
 ### References
 
-####[1]
+#### [1]
 David Bollier. LiquidFeedback: What A Genuine Democratic Process Looks Like. July 5, 2012. url: http://www.bollier.org/blog/liquidfeedback-what-genuine-democratic-process-looks.
 
 [2]
