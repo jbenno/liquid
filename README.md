@@ -66,3 +66,4 @@ For a specific distribution of preferences within the electorate, these paramete
 The adjustment of the parameters is done algorithmically in the game theoretic way of crypto economics. An elected council of wardens can be installed to oversee these adjustments and define the rules to which the system should be optimised. 
 
 ### [Bibliography](/files/bibliography.md)
+### [Liquid Democracy](/files/liquid.md)
