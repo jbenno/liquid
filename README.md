@@ -1,4 +1,4 @@
-# Crypto Democracy
+# Crypto Democracy (working title ...)
 
 ## Summary
 - Crypto democracy overcomes the limitations of representation and other indirect forms of democracy without suffering from the problems inherent to any direct or grassroots democracy. 
